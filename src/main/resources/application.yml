@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: kebab-cloud-authorization-server
+    datasource:
+        generate-unique-name: false
+        name: kebabcloudauthorizationserver
+
+server:
+    port: 9000
